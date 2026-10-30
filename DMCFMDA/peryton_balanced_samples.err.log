@@ -1,15 +1,0 @@
-DMCFMDA fold 1:   0%|          | 0/300 [00:00<?, ?it/s]DMCFMDA fold 1:   0%|          | 0/300 [00:00<?, ?it/s]
-Traceback (most recent call last):
-  File "C:\Users\Administrator\Desktop\MDA\baseline\DMCFMDA\train.py", line 212, in <module>
-    main()
-  File "C:\Users\Administrator\Desktop\MDA\baseline\DMCFMDA\train.py", line 208, in main
-    train(data, args)
-  File "C:\Users\Administrator\Desktop\MDA\baseline\DMCFMDA\train.py", line 140, in train
-    scores, m1, m2, d1, d2 = model(
-  File "E:\enviroment\anaconda\envs\msfdg\lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
-    return self._call_impl(*args, **kwargs)
-  File "E:\enviroment\anaconda\envs\msfdg\lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
-    return forward_call(*args, **kwargs)
-  File "C:\Users\Administrator\Desktop\MDA\baseline\DMCFMDA\DMCFMDA.py", line 73, in forward
-    emb = th.cat((emb_mm[samples[:, 0]], emb_dd[samples[:, 1]]), dim=1)
-IndexError: index 291 is out of bounds for dimension 0 with size 43

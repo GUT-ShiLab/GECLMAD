@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\MDA\baseline\DMCFMDA\.runtime\dgl\backend\backend.py:1838: SyntaxWarning: invalid escape sequence '\P'
-  """Segment reduction operator.
-Traceback (most recent call last):
-  File "C:\Users\Administrator\Desktop\MDA\baseline\DMCFMDA\train.py", line 22, in <module>
-    from torch_geometric.utils import dense_to_sparse
-ModuleNotFoundError: No module named 'torch_geometric'
