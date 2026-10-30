@@ -1,0 +1,40 @@
+################Fold 1 of 5################
+fold=1, epoch=50, loss=1.563965
+fold=1, epoch=100, loss=1.520977
+fold=1, epoch=150, loss=1.519762
+fold=1, epoch=200, loss=1.515589
+fold=1, epoch=250, loss=1.509629
+fold=1, epoch=300, loss=1.508405
+fold 1: {'AUC': np.float64(0.9237087837308781), 'AUPR': np.float64(0.27790338581506496), 'ACC': 0.808106858281161, 'Sensitivity': 0.8799472295514512, 'Specificity': np.float64(0.8071250856380485), 'Precision': 0.058688957325120986}
+################Fold 2 of 5################
+fold=2, epoch=50, loss=1.563338
+fold=2, epoch=100, loss=1.547167
+fold=2, epoch=150, loss=1.526128
+fold=2, epoch=200, loss=1.519328
+fold=2, epoch=250, loss=1.513239
+fold=2, epoch=300, loss=1.509929
+fold 2: {'AUC': np.float64(0.891145275524515), 'AUPR': np.float64(0.21495311555353583), 'ACC': 0.738118952760387, 'Sensitivity': 0.9142480211081794, 'Specificity': np.float64(0.7357119676919194), 'Precision': 0.04514069828035435}
+################Fold 3 of 5################
+fold=3, epoch=50, loss=1.564532
+fold=3, epoch=100, loss=1.534496
+fold=3, epoch=150, loss=1.522072
+fold=3, epoch=200, loss=1.516065
+fold=3, epoch=250, loss=1.511777
+fold=3, epoch=300, loss=1.508659
+fold 3: {'AUC': np.float64(0.925111126100974), 'AUPR': np.float64(0.32577493061496443), 'ACC': 0.821161781445646, 'Sensitivity': 0.8759894459102903, 'Specificity': np.float64(0.8204125049579923), 'Precision': 0.062494117647058825}
+################Fold 4 of 5################
+fold=4, epoch=50, loss=1.557090
+fold=4, epoch=100, loss=1.523856
+fold=4, epoch=150, loss=1.517865
+fold=4, epoch=200, loss=1.514866
+fold=4, epoch=250, loss=1.511468
+fold=4, epoch=300, loss=1.510679
+fold 4: {'AUC': np.float64(0.9191789502855618), 'AUPR': np.float64(0.26121969275801227), 'ACC': 0.8000818170499617, 'Sensitivity': 0.8745046235138706, 'Specificity': np.float64(0.7990660945444056), 'Precision': 0.056068433979842465}
+################Fold 5 of 5################
+fold=5, epoch=50, loss=1.566799
+fold=5, epoch=100, loss=1.558326
+fold=5, epoch=150, loss=1.519235
+fold=5, epoch=200, loss=1.515117
+fold=5, epoch=250, loss=1.511551
+fold=5, epoch=300, loss=1.506742
+fold 5: {'AUC': np.float64(0.9177289325399148), 'AUPR': np.float64(0.28693179354103054), 'ACC': 0.8261743414616793, 'Sensitivity': 0.8507265521796565, 'Specificity': np.float64(0.8258392528756355), 'Precision': 0.0625}
